@@ -1,4 +1,4 @@
-# Pablo Darío Jiménez Nuño 21310143 practica_028_
+# Pablo Darío Jiménez Nuño 21310143 practica_029_
 
 for x in range(10): #range empieza a contar desde el 0 e incrementa de 1 en 1
 	print(x) #imprime la variable x
